@@ -34,7 +34,6 @@ I am actively seeking **Ph.D. positions** in machine learning, deep learning, gr
 
 ## Quick Links
 
-* [Research](research.md)
 * [Projects](projects.md)
 * [Publications](publications.md)
 * [CV](cv.md)

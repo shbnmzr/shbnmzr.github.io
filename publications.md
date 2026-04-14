@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Publications
 ---
+
 ## In Preparation
 
 ### Aftab: Benchmarking CNN Feature Extractors in Deep Reinforcement Learning

@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-[Home](index.md) · [Research](research.md) · [Projects](projects.md) · [Publications](publications.md) · [CV](cv.md)
+[Home](index.md) · [Projects](projects.md) · [Publications](publications.md) · [CV](cv.md)
 
 ---
 
