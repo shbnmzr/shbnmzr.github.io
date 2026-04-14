@@ -1,4 +1,4 @@
-[Projects](index.md) · [Publications](publications.md) · [CV](cv.md) · [Contact](contact.md)
+[Projects](projects.md) · [Publications](publications.md) · [CV](cv.md) · [Contact](contact.md)
 
 ---
 
