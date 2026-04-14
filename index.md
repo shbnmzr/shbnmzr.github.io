@@ -35,6 +35,5 @@ GPA: 18.45/20 (3.9/4.0) · Ranked **1st in class** · Awarded *Exceptional Talen
 - [Research](research.md)
 - [Projects](projects.md)
 - [Publications](publications.md)
-- [Teaching](teaching.md)
 - [CV](cv.md)
 - [Contact](contact.md)
