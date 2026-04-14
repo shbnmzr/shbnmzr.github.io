@@ -12,7 +12,7 @@ Beyond my academic life, I am a passionate runner and enjoy the discipline of tr
 
 ---
 
-## Research Interests
+# Research Interests
 
 * Graph Neural Networks & Graph Representation Learning
 * Deep Reinforcement Learning
@@ -21,7 +21,7 @@ Beyond my academic life, I am a passionate runner and enjoy the discipline of tr
 
 ---
 
-## Education
+# Education
 
 **M.Sc. Computer Engineering**  <span style="float:right;">*Oct 2022 – Apr 2026*</span>
 Università degli Studi di Padova

@@ -2,7 +2,7 @@
 
 ---
 
-## Get in Touch
+# Get in Touch
 
 I am actively looking for **Ph.D. positions** starting in 2026, and I welcome conversations with faculty, research groups, and collaborators working in:
 
@@ -15,7 +15,7 @@ If my work aligns with your research agenda, I would be glad to hear from you.
 
 ---
 
-## Contact Details
+# Contact Details
 
 | | |
 | :--- | :--- |
@@ -27,7 +27,7 @@ If my work aligns with your research agenda, I would be glad to hear from you.
 
 ---
 
-## Ph.D. Enquiries
+# Ph.D. Enquiries
 
 If you are reaching out about a Ph.D. opportunity, I am happy to provide:
 
@@ -41,10 +41,8 @@ Please feel free to write directly to my email above.
 
 ---
 
-## Collaborations & Research Discussions
+# Collaborations & Research Discussions
 
 I am also open to research discussions, informal collaborations, and feedback on my current work.
 
 ---
-
-*Thank you for visiting my portfolio.*

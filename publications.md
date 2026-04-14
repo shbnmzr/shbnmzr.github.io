@@ -2,7 +2,7 @@
 
 ---
 
-## In Preparation
+# In Preparation
 
 ### Aftab: Benchmarking CNN Feature Extractors in Deep Reinforcement Learning
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Thesis
+# Thesis
 
 ### Graph-meta: Improving Metagenomic Classification with Graph-based Learning
 
