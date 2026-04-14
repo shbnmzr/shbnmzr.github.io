@@ -27,7 +27,7 @@ Imam Khomeini International University, Iran
 
 ## Research Experience
 
-**Graduate Researcher (Master's Thesis)** <span style="float:right;">*March 2025 – April 2026*</span>  
+**Graduate Researcher (Master's Thesis)** <span style="float:right;">*Mar 2025 – Apr 2026*</span>  
 Università degli Studi di Padova, Italy  
 *Supervisor: Dr. Matteo Comin*
 
