@@ -4,6 +4,7 @@ description: "M.Sc. Computer Engineering · PhD Applicant" # This will appear as
 
 # Theme Settings
 theme: jekyll-theme-minimal
+logo: /assets/profile.jpg
 
 # Navigation (This prevents Jekyll from guessing what to put in the menu)
 header_pages:
