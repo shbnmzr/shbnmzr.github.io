@@ -1,6 +1,12 @@
 ---
 layout: default
+title: Contact
 ---
+
+[Home](index.md) · [Research](research.md) · [Projects](projects.md) · [Publications](publications.md) · [CV](cv.md)
+
+---
+
 ## Get in Touch
 
 I am actively looking for **Ph.D. positions** starting in 2026, and I welcome conversations with faculty, research groups, and collaborators working in:
@@ -10,7 +16,6 @@ I am actively looking for **Ph.D. positions** starting in 2026, and I welcome co
 - Natural Language Processing
 - Computational Biology & Bioinformatics
 
-
 If my work aligns with your research agenda, I would be glad to hear from you.
 
 ---
@@ -18,6 +23,7 @@ If my work aligns with your research agenda, I would be glad to hear from you.
 ## Contact Details
 
 | | |
+| :--- | :--- |
 | **Email** | [shabnamzaresh@gmail.com](mailto:shabnamzaresh@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/shabnam-zare](https://linkedin.com/in/shabnam-zare) |
 | **Google Scholar** | [Google Scholar Profile](https://scholar.google.com/citations?user=ck3B1P0AAAAJ&hl=en) |
