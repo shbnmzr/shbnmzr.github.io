@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[← Home](index.md) · [Research](research.md) · [Contact](contact.md)
+[Home](index.md) · [Research](research.md) · [Contact](contact.md)
 
 *Last updated: April 2026*
 
@@ -62,6 +62,14 @@ Course Instructor: Dr. Adriano Luchetta
 - Created slides and code samples as supplementary learning materials.
 - Provided individual code feedback and technical support to students.
 
+**Teaching Assistant - Advanced Programming**
+Imam Khomeini International University · Feb 2021 - Jun 2021
+Course Instructor: Dr. Hamidreza Hamidi
+
+- Led weekly lab sessions with programming exercises related to course material.
+- Prepared lecture materials, such as slides and sample code.
+-  Provided troubleshooting support and feedback on students’ code.
+
 ---
 
 ## Publications
@@ -74,13 +82,16 @@ Investigates architectural modifications to the Nature DQN feature extractor to 
 
 ## Selected Projects
 
-| Project | Area | Year |
-|---|---|---|
-| Graph-meta | GNNs, Bioinformatics | 2025–2026 |
-| Learning from Drug Interaction Networks | Graph Learning | 2024 |
-| LLM-based Knowledge Retrieval System (RAG) | NLP, LLMs | 2024 |
-| Aftab (DRL Benchmarking) | Deep RL | 2024 |
-| NFA to DFA Converter & DFA Reduction Tool | Automata Theory | 2021 |
+| Project                                    | Area                       | Year      | Code       |
+|--------------------------------------------|----------------------------|-----------|------------|
+| Graph-meta                                 | GNNs, Bioinformatics       | 2025–2026 | [GitHub](https://github.com/shbnmzr/graph-meta) |
+| Learning from Drug Interaction Networks    | Graph Learning             | 2024      | [GitHub](https://github.com/shbnmzr/INQ0091104-LFN) |
+| LLM-based Knowledge Retrieval System (RAG) | NLP, LLMs                  | 2024      | [GitHub](https://github.com/shbnmzr/INQ0091105-NLP) |
+| Stock Market Prediction                    | Machine Learning           | 2022      | [GitHub](https://github.com/shbnmzr/stock-market-prediction) |
+| Information Retrieval System               | Information Retrieval      | 2022      | [GitHub](https://github.com/shbnmzr/information-retrieval-system) |
+| NFA to DFA Converter & DFA Reduction Tool  | Automata Theory            | 2021      | [GitHub](https://github.com/shbnmzr/NFAtoDFA-DFAReduction) |
+| Power Compiler                             | Automata Theory, Compilers | 2021      | [GitHub](https://github.com/shbnmzr/Power-Compiler) |
+| 2048                                        | C Programming              | 2020      | [GitHub](https://github.com/shbnmzr/2048) |
 
 ---
 
@@ -106,5 +117,6 @@ Investigates architectural modifications to the Nature DQN feature extractor to 
 
 ---
 
-*[Download PDF version →](#)* *(link to be added)*  
-*[Contact me →](contact.md)*
+*[Download PDF version](https://drive.google.com/file/d/1VJAhK1yD0TGuVQbbUAXxmmyrGSC_RLv8/view?usp=drive_link)* 
+
+*[Contact me](contact.md)*
