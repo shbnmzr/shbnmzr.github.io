@@ -7,26 +7,18 @@ Padova, Italy · [shabnamzaresh@gmail.com](mailto:shabnamzaresh@gmail.com) · [L
 
 ## About Me
 
-I am a Computer Engineering graduate student at the University of Padova, where I am completing my Master's thesis on graph-based deep learning for metagenomic classification under the supervision of Dr. Matteo Comin. My work sits at the intersection of **machine learning**, **graph neural networks**, and **computational biology**.
+I am a Computer Engineering graduate at the University of Padova, where I completed my Master's thesis on graph-based deep learning for metagenomic classification under the supervision of Dr. Matteo Comin. My work sits at the intersection of **deep learning**, **graph neural networks**, and **bioinformatics**.
 
-I am actively seeking **Ph.D. positions** in machine learning, graph representation learning, or computational biology, where I can contribute to rigorous, impactful research.
+I am actively seeking **Ph.D. positions** in machine learning, deep learning, graph representation learning, natural language processing or bioinformatics, where I can contribute to rigorous, impactful research.
 
 ---
 
 ## Research Interests
 
 - Graph Neural Networks & Graph Representation Learning
-- Bioinformatics & Computational Genomics
 - Deep Reinforcement Learning
 - Natural Language Processing & Large Language Models
-
----
-
-## Currently
-
-- 🎓 Finishing my M.Sc. thesis — *Graph-meta: Improving Metagenomic Classification with Graph-based Learning*
-- 📄 Finalizing a publication on CNN feature extractors in deep reinforcement learning (*Aftab*, supervised by Dr. Loris Nanni)
-- 🔍 Open to Ph.D. opportunities starting 2026
+- Bioinformatics
 
 ---
 
@@ -42,9 +34,9 @@ GPA: 18.45/20 (3.9/4.0) · Ranked **1st in class** · Awarded *Exceptional Talen
 
 ## Quick Links
 
-- [Research →](research.md)
-- [Projects →](projects.md)
-- [Publications →](publications.md)
-- [Teaching →](teaching.md)
-- [CV →](cv.md)
-- [Contact →](contact.md)
+- [Research](research.md)
+- [Projects](projects.md)
+- [Publications](publications.md)
+- [Teaching](teaching.md)
+- [CV](cv.md)
+- [Contact](contact.md)
