@@ -1,9 +1,7 @@
 # Basic Metadata
 title: "Shabnam Zareshahraki"
 description: "M.Sc. Computer Engineering · PhD Applicant"
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-tactile
 
 # Navigation (This prevents Jekyll from guessing what to put in the menu)
 header_pages:
