@@ -4,7 +4,7 @@
 
 # Curriculum Vitae
 
-*Last updated: April 2026* — **[Download PDF Version](your-link-here)**
+*Last updated: April 2026* — **[Download PDF Version](https://drive.google.com/file/d/1VJAhK1yD0TGuVQbbUAXxmmyrGSC_RLv8/view?usp=drive_link)**
 
 ---
 
