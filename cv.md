@@ -1,8 +1,3 @@
----
-layout: default
-title: CV
----
-
 [Home](index.md) · [Projects](projects.md) · [Publications](publications.md) · [Contact](contact.md)
 
 ---

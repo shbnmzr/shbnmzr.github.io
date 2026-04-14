@@ -1,8 +1,3 @@
----
-layout: default
-title: Contact
----
-
 [Home](index.md) · [Projects](projects.md) · [Publications](publications.md) · [CV](cv.md)
 
 ---
