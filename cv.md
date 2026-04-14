@@ -36,13 +36,7 @@ Università degli Studi di Padova, Italy
 
 ---
 
-## Industry & Teaching
-
-**Computer Engineering Intern** <span style="float:right;">*Jul 2023 – Dec 2023*</span>  
-Consat Engineering AB, Gothenburg, Sweden  
-- Developed an MVP for an edge management system for IoT devices.
-- Deployed a computer vision model for product classification.
-- Presented the computer vision model to customers.
+## Teaching Experience
 
 **Junior Tutor — Foundation of Computer Science** <span style="float:right;">*Oct 2024 - Feb 2025*</span>  
 Università degli Studi di Padova, Italy
@@ -51,13 +45,22 @@ Course instructor: Dr. Adriano Luchetta
 - Prepared lecture materials, such as slides and sample code.
 - Provided troubleshooting support and feedback on students’ code.
 
-
 **Teaching Assistant — Advanced Programming** <span style="float:right;">*Feb 2021 – Jun 2021*</span>  
 Imam Khomeini International University, Iran 
 Course instructor: Dr. Hamidreza Hamidi 
 - Led weekly lab sessions with programming exercises related to course material.
 - Prepared lecture materials, such as slides and sample code.
 - Provided troubleshooting support and feedback on students’ code.
+
+---
+
+## Industry Experience
+
+**Computer Engineering Intern** <span style="float:right;">*Jul 2023 – Dec 2023*</span>  
+Consat Engineering AB, Gothenburg, Sweden  
+- Developed an MVP for an edge management system for IoT devices.
+- Deployed a computer vision model for product classification.
+- Presented the computer vision model to customers.
 
 ---
 
