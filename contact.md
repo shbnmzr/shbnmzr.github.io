@@ -17,13 +17,13 @@ If my work aligns with your research agenda, I would be glad to hear from you.
 
 # Contact Details
 
-| | |
-| :--- | :--- |
-| **Email** | [shabnamzaresh@gmail.com](mailto:shabnamzaresh@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/shabnam-zare](https://linkedin.com/in/shabnam-zare) |
+| |                                                                                        |
+| :--- |:---------------------------------------------------------------------------------------|
+| **Email** | shabnamzaresh at gmail.com                           |
+| **LinkedIn** | [linkedin.com/in/shabnam-zare](https://linkedin.com/in/shabnam-zare)                   |
 | **Google Scholar** | [Google Scholar Profile](https://scholar.google.com/citations?user=ck3B1P0AAAAJ&hl=en) |
-| **GitHub** | [github.com/shbnmzr](https://github.com/shbnmzr) |
-| **Location** | Padova, Italy |
+| **GitHub** | [github.com/shbnmzr](https://github.com/shbnmzr)                                       |
+| **Location** | Padova, Italy                                                                          |
 
 ---
 
