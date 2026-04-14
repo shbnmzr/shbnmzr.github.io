@@ -51,7 +51,7 @@ Applied centrality measures and link prediction to identify unknown drug-drug in
 
 
 ## Stock Market Prediction
-**Type:** Machine Learning Project · **Date:** 2022  
+**Type:** Bachelor's Final Project · **Date:** 2022  
 [GitHub](https://github.com/shbnmzr/stock-market-prediction)
 
 Implemented machine learning models to analyze and predict stock market trends based on historical data.

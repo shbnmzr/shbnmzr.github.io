@@ -19,6 +19,8 @@ Università degli Studi di Padova, Italy
 **B.Sc. Computer Engineering** <span style="float:right;">*Oct 2018 – Sep 2022*</span>  
 Imam Khomeini International University, Iran  
 * GPA: 18.45/20 (3.9/4.0)  
+* Final Project: Stock Market Prediction
+* Advisor: Dr. Nastooh Taheri Javan
 * Ranked **1st in the Class of 2018** · Awarded *Exceptional Talent*
 
 ---
