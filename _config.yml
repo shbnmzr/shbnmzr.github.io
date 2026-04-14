@@ -2,14 +2,3 @@
 title: "Shabnam Zareshahraki"
 description: "M.Sc. Computer Engineering · PhD Applicant"
 theme: jekyll-theme-tactile
-
-# Navigation (This prevents Jekyll from guessing what to put in the menu)
-header_pages:
-  - index.md
-  - research.md
-  - cv.md
-  - contact.md
-
-# SEO & Social (The theme uses these to build clean, non-intrusive links)
-github_username: shbnmzr
-linkedin_username: shabnam-zare
