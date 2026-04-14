@@ -4,7 +4,7 @@
 
 # Projects
 
-Below is a selection of projects spanning graph learning, NLP, reinforcement learning, and classical computer science.
+Below is a selection of projects spanning graph learning, NLP, deep learning, and classical computer science.
 
 ---
 
@@ -18,6 +18,27 @@ A hybrid architecture combining deep learning and GNNs for taxonomic classificat
 
 ---
 
+## Dolomita 
+**Type:** Hackathon · **Date:** May 2025  
+In Motion Idea Contest – NOI Techpark, South Tyrol, Italy
+
+- Selected for a 3-day innovation challenge focused on decarbonization.
+- Applied design thinking to identify key user needs and co-create a solution with real-world relevance.
+- Designed Dolomita, a SaaS-based AI assistant that analyzes ERP data, estimates CO$_2$ emissions, and recommends cost-effective sustainability actions. This is a modular system with regular updates and tailored dashboards for executives, engineers, and CFOs.
+- Delivered a final pitch to a panel of industry experts and innovation leaders, showcasing the business model, technical solution, and impact potential.
+
+---
+
+## LLM-based Knowledge Retrieval System (RAG)
+**Type:**  Graduate Course Project · **Date:** 2024  
+[GitHub](https://github.com/shbnmzr/INQ0091105-NLP)
+
+This Jupyter Notebook demonstrates a Retrieval-Augmented Generation (RAG) system designed to answer questions about the Star Wars universe. The system combines a retriever that fetches relevant documents from a knowledge base with a language model that generates answers based on these documents. The core components include embeddings for vector representations, a FAISS vector store for efficient retrieval, and a conversational retrieval chain.
+
+**Technologies:** Python · PyTorch · HuggingFace · LangChain · FAISS
+
+---
+
 ## Learning from Drug Interaction Networks
 **Type:** Graduate Course Project · **Date:** 2024  
 [GitHub](https://github.com/shbnmzr/INQ0091104-LFN)
@@ -28,15 +49,6 @@ Applied centrality measures and link prediction to identify unknown drug-drug in
 
 ---
 
-## LLM-based Knowledge Retrieval System (RAG)
-**Type:**  Graduate Course Project · **Date:** 2024  
-[GitHub](https://github.com/shbnmzr/INQ0091105-NLP)
-
-A scalable pipeline using FAISS and LangChain for contextual question answering over unstructured technical literature.
-
-**Technologies:** Python · LangChain · FAISS · HuggingFace · OpenAI
-
----
 
 ## Stock Market Prediction
 **Type:** Machine Learning Project · **Date:** 2022  
