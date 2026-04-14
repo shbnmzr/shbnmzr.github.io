@@ -1,9 +1,6 @@
-# Contact
-
-[Home](index.md) · [CV](cv.md) · [Research](research.md)
-
 ---
-
+layout: default
+---
 ## Get in Touch
 
 I am actively looking for **Ph.D. positions** starting in 2026, and I welcome conversations with faculty, research groups, and collaborators working in:

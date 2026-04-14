@@ -1,9 +1,6 @@
-# Projects
-
-[← Home](index.md) · [Research](research.md) · [Publications](publications.md)
-
 ---
-
+layout: default
+---
 ## Overview
 
 Below is a selection of projects spanning graph learning, NLP, reinforcement learning, and classical computer science. Each project reflects hands-on implementation of concepts from my coursework and research.

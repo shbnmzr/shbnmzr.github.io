@@ -1,11 +1,6 @@
-# Curriculum Vitae
-
-[Home](index.md) · [Research](research.md) · [Contact](contact.md)
-
-*Last updated: April 2026*
-
 ---
-
+layout: default
+---
 ## Shabnam Zareshahraki
 
 Padova, Italy  

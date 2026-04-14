@@ -20,8 +20,9 @@ I am actively seeking **Ph.D. positions** in machine learning, deep learning, gr
 
 ---
 
-## Education
-
+---
+layout: default
+---
 **M.Sc. Computer Engineering** — Università degli Studi di Padova *(Oct 2022 – Apr 2026)*  
 GPA: 103/110 · Thesis Advisor: Dr. Matteo Comin
 
