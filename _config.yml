@@ -3,7 +3,7 @@ title: " "  # Leave empty to prevent the theme from double-printing your name in
 description: "M.Sc. Computer Engineering · PhD Applicant" # This will appear as a clean subtitle
 
 # Theme Settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 
 # Navigation (This prevents Jekyll from guessing what to put in the menu)
 header_pages:
