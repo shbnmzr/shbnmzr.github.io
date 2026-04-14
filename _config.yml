@@ -1,16 +1,19 @@
-title: " " # Leaving this blank prevents the double-title in the header
-description: "M.Sc. Computer Engineering · PhD Applicant"
+# Basic Metadata
+title: " "  # Leave empty to prevent the theme from double-printing your name in the header
+description: "M.Sc. Computer Engineering · PhD Applicant" # This will appear as a clean subtitle
+
+# Theme Settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# This tells Jekyll NOT to show certain pages in the auto-generated menu
+# Navigation (This prevents Jekyll from guessing what to put in the menu)
 header_pages:
   - index.md
   - research.md
   - cv.md
   - contact.md
 
-# To remove "This site is maintained by..." from the footer
-google_analytics:
-show_downloads: false
+# SEO & Social (The theme uses these to build clean, non-intrusive links)
+github_username: shbnmzr
+linkedin_username: shabnam-zare
