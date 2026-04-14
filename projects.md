@@ -1,96 +1,96 @@
 ---
 layout: default
+title: Projects
 ---
-## Overview
 
-Below is a selection of projects spanning graph learning, NLP, reinforcement learning, and classical computer science. Each project reflects hands-on implementation of concepts from my coursework and research.
+[Home](index.md) · [Research](research.md) · [Publications](publications.md) · [CV](cv.md) · [Contact](contact.md)
+
+---
+
+# Projects
+
+Below is a selection of projects spanning graph learning, NLP, reinforcement learning, and classical computer science.
 
 ---
 
 ## Graph-meta — Metagenomic Classification via GNNs
+**Type:** Master's Thesis Research Project · **Date:** 2025–2026  
+[GitHub →](https://github.com/shbnmzr/graph-meta)
 
-**Type:** Master's Thesis Research Project  
-**Date:** March 2025 – April 2026  
-[GitHub →](https://github.com/shbnmzr)
+A hybrid architecture combining deep learning and GNNs for taxonomic classification of metagenomic sequences by modeling structural relationships in assembly graphs.
 
-A novel hybrid architecture combining deep learning and graph neural networks for taxonomic classification of metagenomic sequences. The system models structural relationships between assembled genomic contigs as a graph, enabling the model to exploit topological information unavailable to sequence-only methods.
-
-**Technologies:** Python · PyTorch · PyTorch Geometric · NetworkX · HPC
-
-> See [Research](research.md) for a full description.
+**Technologies:** Python · PyTorch · PyG · NetworkX · HPC
 
 ---
 
 ## Learning from Drug Interaction Networks
+**Type:** Graduate Course Project · **Date:** 2024  
+[GitHub →](https://github.com/shbnmzr/INQ0091104-LFN)
 
-**Type:** Graduate Course Project (Learning from Networks)  
-**Date:** Fall 2024  
-[GitHub →](https://github.com/shbnmzr)
-
-A graph-based analysis of drug-drug interaction (DDI) networks, developed in collaboration with a fellow graduate student. The project combined network analysis with machine learning to identify potentially dangerous or unknown drug interactions.
-
-**What was built:**
-- Applied centrality measures and clustering algorithms to characterize network topology and identify structurally important drugs.
-- Implemented **link prediction** models to surface potential undiscovered interactions, with implications for pharmacovigilance.
-- Built interactive visualizations of the DDI network to highlight high-risk interaction clusters.
+Applied centrality measures and link prediction to identify unknown drug-drug interactions within topological clusters.
 
 **Technologies:** Python · NetworkX · Scikit-learn · Matplotlib
 
 ---
 
 ## LLM-based Knowledge Retrieval System (RAG)
+**Type:**  Graduate Course Project · **Date:** 2024  
+[GitHub](https://github.com/shbnmzr/INQ0091105-NLP)
 
-**Type:** Independent Project  
-**Date:** Spring 2024  
-[GitHub →](https://github.com/shbnmzr)
+A scalable pipeline using FAISS and LangChain for contextual question answering over unstructured technical literature.
 
-A scalable **Retrieval-Augmented Generation (RAG)** pipeline designed for contextual question answering over unstructured technical literature. Built to explore the architecture required for grounding language model outputs in domain-specific document corpora.
-
-**What was built:**
-- Integrated **FAISS** vector databases for fast embedding-based retrieval of relevant document chunks.
-- Constructed a conversational agent using **LangChain**, combining a document retriever with a generative language model pipeline.
-- Demonstrated practical AI for question answering: the system returns coherent, context-aware responses grounded in retrieved passages rather than parametric knowledge alone.
-
-**Technologies:** Python · LangChain · FAISS · HuggingFace Hub · OpenAI API
+**Technologies:** Python · LangChain · FAISS · HuggingFace · OpenAI
 
 ---
 
-## Aftab — Benchmarking CNN Feature Extractors in DRL
+## Stock Market Prediction
+**Type:** Machine Learning Project · **Date:** 2022  
+[GitHub →](https://github.com/shbnmzr/stock-market-prediction)
 
-**Type:** Research Project (In Preparation for Publication)  
-**Collaborators:** Shieenavaz, Zareshahraki, Nanni  
-**Supervisor:** Dr. Loris Nanni  
-[GitHub →](https://github.com/shbnmzr)
+Implemented machine learning models to analyze and predict stock market trends based on historical data.
 
-A systematic benchmarking study investigating architectural modifications to the standard Nature DQN convolutional feature extractor. The project evaluates whether alternative CNN architectures improve baseline performance across standard deep reinforcement learning tasks.
-
-> See [Publications](publications.md) for the manuscript status.
-
-**Technologies:** Python · PyTorch · OpenAI Gym
+**Technologies:** Python · Scikit-learn · Pandas
 
 ---
 
-## NFA to DFA Converter and DFA Reduction Tool
+## Information Retrieval System
+**Type:** Course Project · **Date:** 2022  
+[GitHub →](https://github.com/shbnmzr/information-retrieval-system)
 
-**Type:** Undergraduate Course Project (Automata Theory)  
-**Date:** Spring 2021  
-[GitHub →](https://github.com/shbnmzr)
+Designed and built a system for efficient indexing and retrieval of documents using classical IR models.
 
-A formal automata toolkit implementing classical algorithms from theoretical computer science.
+**Technologies:** Python
 
-**What was built:**
-- Implemented the **Subset Construction algorithm** to convert Nondeterministic Finite Automata (NFA) to equivalent Deterministic Finite Automata (DFA).
-- Integrated **DFA minimization** algorithms to reduce the state space of the resulting automaton.
-- Built a validation engine to test whether input strings are accepted by the constructed DFA, with graphical state-transition visualizations.
+---
+
+## NFA to DFA Converter & DFA Reduction Tool
+**Type:** Automata Theory Project · **Date:** 2021  
+[GitHub →](https://github.com/shbnmzr/NFAtoDFA-DFAReduction)
+
+Implemented the subset construction algorithm and DFA minimization to reduce state space, including graphical visualizations.
 
 **Technologies:** Python · Graphviz
 
 ---
 
-## Technical Skills Summary
+## Power Compiler
+**Type:** Compilers Project · **Date:** 2021  
+[GitHub →](https://github.com/shbnmzr/Power-Compiler)
 
-**Languages:** Python · R · Bash  
-**ML/DL:** PyTorch · PyTorch Geometric · Scikit-learn · HuggingFace  
-**Graph & Networks:** NetworkX · PyG · spectral methods  
-**NLP:** LangChain · FAISS · Transformers  
-**Infrastructure:** Git · Docker · Linux · HPC (SLURM)
+Developed a compiler leveraging formal grammar theory and automata principles.
+
+**Technologies:** Python · Automata Theory
+
+---
+
+## 2048
+**Type:** Programming Project · **Date:** 2020  
+[GitHub →](https://github.com/shbnmzr/2048)
+
+A functional implementation of the popular sliding tile puzzle game.
+
+**Technologies:** C Programming
+
+---
+
+*[Back to top](#projects)*
