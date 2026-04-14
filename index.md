@@ -21,14 +21,16 @@ I am actively seeking **Ph.D. positions** in machine learning, deep learning, gr
 
 ## Education
 
-**M.Sc. Computer Engineering**  *(Oct 2022 – Apr 2026)*
-* Università degli Studi di Padova
+**M.Sc. Computer Engineering**  <span style="float:right;">*(Oct 2022 – Apr 2026)*</span>
+Università degli Studi di Padova
 * GPA: 103/110
 * Thesis Advisor: Dr. Matteo Comin
 
-**B.Sc. Computer Engineering**  *(Oct 2018 – Sep 2022)*
-* Imam Khomeini International University
-* GPA: 18.45/20 (3.9/4.0)
-* Ranked **1st in class** · Awarded *Exceptional Talent*
+**B.Sc. Computer Engineering**   <span style="float:right;">*(Oct 2018 – Sep 2022)*</span>
+Imam Khomeini International University
+* GPA: 18.45/20 (3.9/4.0)  
+* Final Project: Stock Market Prediction
+* Advisor: Dr. Nastooh Taheri Javan
+* Ranked **1st in the Class of 2018** · Awarded *Exceptional Talent*
 
 ---
