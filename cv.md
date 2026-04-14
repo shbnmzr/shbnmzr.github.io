@@ -42,6 +42,7 @@ Università degli Studi di Padova, Italy
 
 **Junior Tutor — Foundation of Computer Science** <span style="float:right;">*Oct 2024 - Feb 2025*</span>  
 Università degli Studi di Padova, Italy
+
 Course instructor: Dr. Adriano Luchetta
 - Led weekly lab sessions with programming exercises related to course material.
 - Prepared lecture materials, such as slides and sample code.
@@ -49,6 +50,7 @@ Course instructor: Dr. Adriano Luchetta
 
 **Teaching Assistant — Advanced Programming** <span style="float:right;">*Feb 2021 – Jun 2021*</span>  
 Imam Khomeini International University, Iran 
+
 Course instructor: Dr. Hamidreza Hamidi 
 - Led weekly lab sessions with programming exercises related to course material.
 - Prepared lecture materials, such as slides and sample code.
