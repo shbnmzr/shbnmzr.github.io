@@ -11,10 +11,6 @@
 **Authors:** Shieenavaz, Zareshahraki, Nanni  
 **Supervisor:** Dr. Loris Nanni  
 **Status:** In preparation  
-[View Project on GitHub →](https://github.com/shbnmzr)
-
-**Abstract (working):**  
-This study investigates the effect of architectural modifications to the standard Nature DQN convolutional feature extractor on baseline performance in deep reinforcement learning tasks. We systematically benchmark a range of CNN variants across established RL environments, providing empirical evidence on which architectural choices consistently improve performance and which are task-dependent. The goal is to offer actionable guidance for practitioners designing DRL systems that rely on raw pixel input.
 
 ---
 
