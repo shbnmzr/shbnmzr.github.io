@@ -26,6 +26,7 @@ Beyond my academic life, I am a passionate runner and enjoy the discipline of tr
 **M.Sc. Computer Engineering**  <span style="float:right;">*Oct 2022 – Apr 2026*</span>
 Università degli Studi di Padova
 * GPA: 103/110
+* Thesis: *Graph-meta: Improving Metagenomic Classification with Graph-based Learning*
 * Thesis Advisor: Dr. Matteo Comin
 
 **B.Sc. Computer Engineering**   <span style="float:right;">*Oct 2018 – Sep 2022*</span>
