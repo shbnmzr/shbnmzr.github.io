@@ -8,7 +8,7 @@ I am a Computer Engineering graduate at the University of Padova, where I comple
 
 I am actively seeking **Ph.D. positions** in machine learning, deep learning, graph representation learning, natural language processing, or bioinformatics.
 
-Beyond my academic life, I am a passionate runner and enjoy the discipline of training for half-marathons and marathons. I stay connected to the world of sports as an avid fan of **Football** and **Formula 1**. I also find balance through spending time in nature and am a dedicated reader of books across various genres.
+Beyond my academic life, I am a passionate runner and enjoy the discipline of training for half-marathons and marathons. I stay connected to the world of sports as an avid fan of **Football** and **Formula 1**. I also find balance through spending time in nature and am a dedicated reader of books across various genres. I love traveling and walking through novel cities to explore the culture and the history.
 
 ---
 
