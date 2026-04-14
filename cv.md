@@ -86,3 +86,11 @@ Consat Engineering AB, Gothenburg, Sweden
 
 
 ---
+
+## Certificates
+
+**IELTS (Academic)** <span style="float:right;">27 March 2026</span> 
+
+Listening: 9 - Reading: 9 - Writing: 8 - Speaking: 8
+
+---
