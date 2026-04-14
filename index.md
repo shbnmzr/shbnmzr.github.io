@@ -1,3 +1,7 @@
+[Projects](index.md) · [Publications](publications.md) · [CV](cv.md) · [Contact](contact.md)
+
+---
+
 # About Me
 
 I am a Computer Engineering graduate at the University of Padova, where I completed my Master's thesis on graph-based deep learning for metagenomic classification under the supervision of Dr. Matteo Comin. My work sits at the intersection of **deep learning**, **graph neural networks**, and **bioinformatics**.

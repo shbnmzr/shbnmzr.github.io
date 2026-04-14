@@ -10,7 +10,8 @@ plugins:
 # Navigation (This prevents Jekyll from guessing what to put in the menu)
 header_pages:
   - index.md
-  - research.md
+  - projects.md
+  - publications.md
   - cv.md
   - contact.md
 

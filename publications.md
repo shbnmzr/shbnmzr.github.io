@@ -1,3 +1,7 @@
+[Home](index.md) · [Projects](projects.md) · [CV](cv.md) · [Contact](contact.md)
+
+---
+
 ## In Preparation
 
 ### Aftab: Benchmarking CNN Feature Extractors in Deep Reinforcement Learning
