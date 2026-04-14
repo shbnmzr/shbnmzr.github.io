@@ -1,5 +1,3 @@
-# Shabnam Zareshahraki
-
 **M.Sc. Computer Engineering · Università degli Studi di Padova**  
 Padova, Italy · [shabnamzaresh@gmail.com](mailto:shabnamzaresh@gmail.com) · [LinkedIn](https://linkedin.com/in/shabnam-zare) · [GitHub](https://github.com/shbnmzr)
 
